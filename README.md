@@ -1,2 +1,4 @@
-# cpp-debug
-Build/Run/Debug C++ Project (multiple source files) with Codespaces
+# Rational Class
+
+A class for representing rational numbers (improper fractions) for
+demonstration of operator overloading in C++.
